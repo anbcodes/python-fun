@@ -1,3 +1,0 @@
-#RockPaperSizer
-import random
-user = input("what choies rock papper or sizers")
